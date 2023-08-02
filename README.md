@@ -5,7 +5,7 @@
 
 Установить node.js: https://nodejs.org/en/download
 
-Скачать проект из github и открыть в IDE (например, sublime):
+Скачать проект из github и открыть в IDE (например, sublime)
 
 Запустить команду в гитбаше (в папке cypress): npm install
 
